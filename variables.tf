@@ -11,9 +11,7 @@ variable "region" {}
 
 variable "password" {}
 
-variable "availability_domain1" {}
-variable "availability_domain2" {}
-variable "availability_domain3" {}
+variable "availability_domain" {}
 
 variable "db_admin_password" {}
 
